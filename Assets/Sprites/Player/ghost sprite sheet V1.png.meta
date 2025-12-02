@@ -1,0 +1,642 @@
+fileFormatVersion: 2
+guid: b4f2985f459184e479c1a49577e5ef5a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4210.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378605eb65bdf81438d6fb56b314ee2c
+      internalID: 1039908237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_1
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 4210.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03906b9431381b544893f11453c464fa
+      internalID: -178045806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_2
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4210.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00207d1e23685054886959ec4dd0f055
+      internalID: -889426994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_3
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 4210.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300b98d9cb09dde45a44bbc8ff5d26e1
+      internalID: -668551219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_4
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 4210.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06851cd2c330b974ba719260e37e2a0c
+      internalID: -1379634331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_5
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 4210.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afc016d60f5248418180e38e15828bb
+      internalID: -558005845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_6
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 4210.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0593a66170766c488b76e865d06fa24
+      internalID: -401051709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_7
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 4210.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4294b582b68008e4d8103ea1d42995eb
+      internalID: -1501876757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3609.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2b8de9d5c4f724982ed16b5b946957
+      internalID: -1237756340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_9
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 3609.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47816497502eed448a831edae92d6635
+      internalID: -1095855457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_10
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3609.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6714151e6fad7014b81c44c26a577354
+      internalID: 598836641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_11
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 3609.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906b0001dd9e7974dbb5c15ee1bb4618
+      internalID: -1997806417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_12
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3609.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f0779cb0b5b38479971ec982572daa
+      internalID: 1786067935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_13
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 3609.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26273f663e148d43ac200da500a728b
+      internalID: 1866616360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_14
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 3609.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7967b8e183501f54c8a58d5ce6fac703
+      internalID: -176226735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_15
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 3609.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94fe2d52f5e9384fb9b9de395c7936d
+      internalID: 1366985203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3008.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eced4926425a3f4885532abe77e7542
+      internalID: 1504486872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_17
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 3008.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765bd2259e0c1444a8ffbc45da7b5df8
+      internalID: 360832909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_18
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3008.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4825a86f806f66140b9110d92d19f178
+      internalID: 1206705886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_19
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 3008.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cf3a916ac713548b072805278b815b
+      internalID: 1949978698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_20
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3008.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22e4e219fd53e345a472d37b98b7615
+      internalID: -1250594199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_21
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 3008.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff9769208a426b4198c68dbece6ae34
+      internalID: -1284931259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_22
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 3008.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eccf7085940734d981c5014d6e0203
+      internalID: -627934358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sprite sheet V1_23
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 3008.5
+        width: 601
+        height: 601.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226605717559974458b431e9c3603dfc
+      internalID: 3606944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ghost sprite sheet V1_0: 1039908237
+      ghost sprite sheet V1_1: -178045806
+      ghost sprite sheet V1_10: 598836641
+      ghost sprite sheet V1_11: -1997806417
+      ghost sprite sheet V1_12: 1786067935
+      ghost sprite sheet V1_13: 1866616360
+      ghost sprite sheet V1_14: -176226735
+      ghost sprite sheet V1_15: 1366985203
+      ghost sprite sheet V1_16: 1504486872
+      ghost sprite sheet V1_17: 360832909
+      ghost sprite sheet V1_18: 1206705886
+      ghost sprite sheet V1_19: 1949978698
+      ghost sprite sheet V1_2: -889426994
+      ghost sprite sheet V1_20: -1250594199
+      ghost sprite sheet V1_21: -1284931259
+      ghost sprite sheet V1_22: -627934358
+      ghost sprite sheet V1_23: 3606944
+      ghost sprite sheet V1_3: -668551219
+      ghost sprite sheet V1_4: -1379634331
+      ghost sprite sheet V1_5: -558005845
+      ghost sprite sheet V1_6: -401051709
+      ghost sprite sheet V1_7: -1501876757
+      ghost sprite sheet V1_8: -1237756340
+      ghost sprite sheet V1_9: -1095855457
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
