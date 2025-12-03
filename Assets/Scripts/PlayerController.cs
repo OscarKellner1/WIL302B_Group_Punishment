@@ -1,4 +1,5 @@
 using UnityEngine;
+using TMPro; 
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -7,6 +8,8 @@ public class PlayerMovement : MonoBehaviour
 
     private Rigidbody2D rb;
     private float moveX;
+
+    public GameObject Zombie;
 
     void Start()
     {
@@ -19,11 +22,15 @@ public class PlayerMovement : MonoBehaviour
     {
         moveX = Input.GetAxisRaw("Horizontal");
 
-
         if (Input.GetKeyDown(KeyCode.E))
         {
             TryInteract();
         }
+    }
+
+    void OnTriggerEnter (Collider other)
+    {
+        CanInteractUI.SetActive(true);
     }
 
     void FixedUpdate()
@@ -34,10 +41,11 @@ public class PlayerMovement : MonoBehaviour
 
 
     //player interaction logic
-    float interactRange = 2f;
+    float interactRange = 10f;
 
     //TODO hook in Dialogue UI------------------------------------------------------
-    public GameObject dialogueUI;
+    public GameObject GhostdialogueUI;
+    public GameObject CanInteractUI;
 
     public void TryInteract()
     {
@@ -51,8 +59,31 @@ public class PlayerMovement : MonoBehaviour
             if (distance <= interactRange)
             {
                 // Show dialogue UI (could be replaced with NPC-specific dialogue manager)
-                dialogueUI.SetActive(true);
-                Debug.Log("Talking to " + npc.name);
+                GhostdialogueUI.SetActive(true);
+                if (npc.name == "Zombie")
+                {
+                    GhostdialogueUI.GetComponent<DialogueManager>().ZDialogue();
+                }
+                if (npc.name == "Lich")
+                {
+
+                }
+                if (npc.name == "Witch")
+                {
+
+                }
+                if (npc.name == "Merman")
+                {
+
+                }
+                if (npc.name == "Vampire")
+                {
+
+                }
+                if (npc.name == "Abomination")
+                {
+
+                }
                 break; // Stop after first NPC in range
             }
         }
