@@ -18,6 +18,12 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         moveX = Input.GetAxisRaw("Horizontal");
+
+
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            TryInteract();
+        }
     }
 
     void FixedUpdate()
@@ -28,5 +34,29 @@ public class PlayerMovement : MonoBehaviour
 
 
     //player interaction logic
-    
+    float interactRange = 2f;
+
+    //TODO hook in Dialogue UI------------------------------------------------------
+    public GameObject dialogueUI;
+
+    public void TryInteract()
+    {
+        //Find all NPCs in the scene with the "NPC" tag
+        GameObject[] npcs = GameObject.FindGameObjectsWithTag("NPC");
+
+        //detect npc in range
+        foreach (GameObject npc in npcs)
+        {
+            float distance = Vector2.Distance(transform.position, npc.transform.position);
+            if (distance <= interactRange)
+            {
+                // Show dialogue UI (could be replaced with NPC-specific dialogue manager)
+                dialogueUI.SetActive(true);
+                Debug.Log("Talking to " + npc.name);
+                break; // Stop after first NPC in range
+            }
+        }
+
+    }
+
 }
