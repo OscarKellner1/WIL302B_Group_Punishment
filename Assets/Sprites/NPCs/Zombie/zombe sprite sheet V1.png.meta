@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -95,7 +95,511 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 4209
+        width: 214
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cbdaca8157c2044a5f0bae6e65e564
+      internalID: -1598231378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_1
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 4209
+        width: 209
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9937215b394ec499bcc9e1419d80ce
+      internalID: 824727277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_2
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 4208
+        width: 202
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b3e2dd52a702e4e818e6b84f9e64f8
+      internalID: -1939286547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_3
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 4209
+        width: 209
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5e54dd92f4c7047a1a226dff9a7dee
+      internalID: -928679887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_4
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 4209
+        width: 209
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7e3a5d4c416e64184f5b61dd68c4c8
+      internalID: 1818489754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_5
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 4208
+        width: 202
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27944f2d8bad9664db8bec132551d901
+      internalID: 2120827609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_6
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 4209
+        width: 209
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45071e2d77fa98b47b28fa50b8daeda9
+      internalID: -1864165461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_7
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 4209
+        width: 214
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb8a75e4d708e647aabde6c1e767280
+      internalID: -1264359145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3608
+        width: 253
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e4f9504d5c2ff409abe6c44ff6b581
+      internalID: 987983382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3606
+        width: 247
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fab6486c936f74283bde3fcdc393b4
+      internalID: -1881282240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_10
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 3603
+        width: 204
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c82e6516cd2591408524b6a212b7443
+      internalID: 1773276398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_11
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 3603
+        width: 234
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df21b807488f0a640998b610ec4838f7
+      internalID: -318777253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_12
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 3606
+        width: 249
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b986f02929af941a07be40cd509175
+      internalID: 755378464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_13
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 3606
+        width: 233
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76b4ab0fe8077648a315dcd43943c62
+      internalID: 1536672298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_14
+      rect:
+        serializedVersion: 2
+        x: 3806
+        y: 3606
+        width: 199
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cff844563c58e4298a10390000118f
+      internalID: -1442349834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_15
+      rect:
+        serializedVersion: 2
+        x: 4417
+        y: 3608
+        width: 211
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07327518f811f946887d15cd485bff2
+      internalID: -1022479598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3002
+        width: 241
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112d6318a37e596499f620e4470fcc9e
+      internalID: 2138986958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_17
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 3004
+        width: 237
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3ef445ea8051e4683e922e50310183
+      internalID: 1375753736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_18
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 3004
+        width: 207
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33595b4dc1bf594fa21e89ff3c6f693
+      internalID: -1271591856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_19
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 3003
+        width: 240
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e50fe6af4bb25449aa2eabd274f6f92
+      internalID: 67124869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_20
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 3004
+        width: 252
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7777ab110ac3c8244a46e2b5c8d9e4e1
+      internalID: -1411566717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_21
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 2997
+        width: 232
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5d812eacaa7f040b7ed9f4b6ba9bab
+      internalID: -1593308057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_22
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 3004
+        width: 206
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc9aa54959521649ba9eadc1325b50e
+      internalID: 2062787610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombe sprite sheet V1_23
+      rect:
+        serializedVersion: 2
+        x: 4414
+        y: 3002
+        width: 212
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27055f951ed0e534fbd35e3023072e46
+      internalID: -1024440606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +610,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      zombe sprite sheet V1_0: -1598231378
+      zombe sprite sheet V1_1: 824727277
+      zombe sprite sheet V1_10: 1773276398
+      zombe sprite sheet V1_11: -318777253
+      zombe sprite sheet V1_12: 755378464
+      zombe sprite sheet V1_13: 1536672298
+      zombe sprite sheet V1_14: -1442349834
+      zombe sprite sheet V1_15: -1022479598
+      zombe sprite sheet V1_16: 2138986958
+      zombe sprite sheet V1_17: 1375753736
+      zombe sprite sheet V1_18: -1271591856
+      zombe sprite sheet V1_19: 67124869
+      zombe sprite sheet V1_2: -1939286547
+      zombe sprite sheet V1_20: -1411566717
+      zombe sprite sheet V1_21: -1593308057
+      zombe sprite sheet V1_22: 2062787610
+      zombe sprite sheet V1_23: -1024440606
+      zombe sprite sheet V1_3: -928679887
+      zombe sprite sheet V1_4: 1818489754
+      zombe sprite sheet V1_5: 2120827609
+      zombe sprite sheet V1_6: -1864165461
+      zombe sprite sheet V1_7: -1264359145
+      zombe sprite sheet V1_8: 987983382
+      zombe sprite sheet V1_9: -1881282240
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
