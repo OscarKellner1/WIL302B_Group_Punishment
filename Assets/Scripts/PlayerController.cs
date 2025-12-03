@@ -25,4 +25,8 @@ public class PlayerMovement : MonoBehaviour
         // Force Y to always be 0
         rb.velocity = new Vector2(moveX * moveSpeed, 0f);
     }
+
+
+    //player interaction logic
+    
 }
